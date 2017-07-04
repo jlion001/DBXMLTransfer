@@ -1,0 +1,10 @@
+M:\projects\github\DBXMLTransfer\bin\Debug\DbXMLTransfer.exe.config
+M:\projects\github\DBXMLTransfer\bin\Debug\DbXMLTransfer.exe
+M:\projects\github\DBXMLTransfer\bin\Debug\DbXMLTransfer.pdb
+M:\projects\github\DBXMLTransfer\bin\Debug\DbXMLTransfer.xml
+M:\projects\github\DBXMLTransfer\obj\x86\Debug\DbXMLTransfer.vbprojResolveAssemblyReference.cache
+M:\projects\github\DBXMLTransfer\obj\x86\Debug\DbXMLTransfer.Resources.resources
+M:\projects\github\DBXMLTransfer\obj\x86\Debug\DbXMLTransfer.vbproj.GenerateResource.Cache
+M:\projects\github\DBXMLTransfer\obj\x86\Debug\DbXMLTransfer.exe
+M:\projects\github\DBXMLTransfer\obj\x86\Debug\DbXMLTransfer.xml
+M:\projects\github\DBXMLTransfer\obj\x86\Debug\DbXMLTransfer.pdb

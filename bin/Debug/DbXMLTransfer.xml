@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DbXMLTransfer
+</name>
+</assembly>
+<members>
+<member name="T:DbXMLTransfer.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DbXMLTransfer.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DbXMLTransfer.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:DbXMLTransfer.modMain.Main(System.String[])">
+ <summary>
+ 
+ </summary>
+ <param name="oArgs"></param>
+ <returns></returns>
+ <remarks>
+ Expected parameters:
+ IN/OUT - Determines whether an xml file should be imported into a table or a table should be exported to an xml</remarks>
+ *sqlfilename* - The name of a file containing a sql query to be executed either to export or import an xml file.
+ *xmlfilename* - The name of a file to be created with table contents (for export) or that contains data to be imported (for import)
+</member>
+</members>
+</doc>
